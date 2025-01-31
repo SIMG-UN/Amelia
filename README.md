@@ -1,0 +1,2 @@
+# NitroGeneAI
+Repositorio | Genética
