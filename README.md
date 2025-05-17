@@ -17,6 +17,4 @@ Aunque este es nuestro enfoque actual, el grupo mantiene una visión abierta y f
 - Datasets organizados y documentados para facilitar su análisis.
 - Código fuente en desarrollo para el procesamiento, análisis y modelado de datos.
 
-Desarrollado y mantenido por  
-**Mar** – Líder del grupo de investigación *Amelia*  
-[@marsilvaa](https://github.com/marsilvaa)
+Desarrollado y mantenido por: **Mar** – Líder del grupo de investigación *Amelia* [@marsilvaa](https://github.com/marsilvaa)
