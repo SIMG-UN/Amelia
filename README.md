@@ -12,3 +12,7 @@ Actualmente, Amelia está investigando las variantes genéticas asociadas al des
 - Documentación sobre los formatos de datos biológicos que manipulamos.
 - Datasets organizados y documentados para facilitar su análisis.
 - Código fuente en desarrollo para el procesamiento, análisis y modelado de datos.
+
+Desarrollado y mantenido por  
+**Mar** – Líder del grupo de investigación *Amelia*  
+[@marsilvaa](https://github.com/marsilvaa)
