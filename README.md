@@ -1,5 +1,5 @@
 ## 🧬 Amelia – Grupo de Investigación
-### Objetivo del grupo:
+### 🎯 Objetivo del grupo:
 Amelia busca ser un puente entre la bioinformática y los modelos de inteligencia artificial, promoviendo un espacio interdisciplinario donde converjan personas interesadas en genética, datos biológicos y aprendizaje automático. Nuestro objetivo es facilitar el desarrollo de soluciones innovadoras que aprovechen el poder de los datos biomoleculares y los modelos de IA para responder preguntas científicas complejas.
 
 ### Actividad principal:
