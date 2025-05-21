@@ -22,6 +22,8 @@ Erga, A. H., Dalen, I., Ushakova, A., Chung, J., Tzoulis, C., Tysnes, O. B., Alv
 
 Grall-Bronnec, M., Victorri-Vigneau, C., Donnio, Y., Leboucher, J., Rousselet, M., Thiabaud, E., Zreika, N., Derkinderen, P., & Challet-Bouju, G. (2017). Dopamine Agonists and Impulse Control Disorders: a complex association. Drug Safety, 41(1), 19–75. https://doi.org/10.1007/s40264-017-0590-6
 
+Katzung, B. G. (1982). Basic and Clinical Pharmacology. http://182.160.97.198:8080/xmlui/handle/123456789/949
+
 Buffalo, V. (2015). Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools. http://cds.cern.ch/record/2041868
 
 Desarrollado y mantenido por **Mar** ([@marsilvaa](https://github.com/marsilvaa)) – Líder del grupo de investigación *Amelia*
