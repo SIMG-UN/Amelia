@@ -17,4 +17,11 @@ Aunque este es nuestro enfoque actual, el grupo mantiene una visión abierta y f
 - Datasets organizados y documentados para facilitar su análisis.
 - Código fuente en desarrollo para el procesamiento, análisis y modelado de datos.
 
+### Bibliografía
+Erga, A. H., Dalen, I., Ushakova, A., Chung, J., Tzoulis, C., Tysnes, O. B., Alves, G., Pedersen, K. F., & Maple-Grødem, J. (2018). Dopaminergic and Opioid Pathways Associated with Impulse Control Disorders in Parkinson’s Disease. Frontiers in Neurology, 9. https://doi.org/10.3389/fneur.2018.00109
+
+Grall-Bronnec, M., Victorri-Vigneau, C., Donnio, Y., Leboucher, J., Rousselet, M., Thiabaud, E., Zreika, N., Derkinderen, P., & Challet-Bouju, G. (2017). Dopamine Agonists and Impulse Control Disorders: a complex association. Drug Safety, 41(1), 19–75. https://doi.org/10.1007/s40264-017-0590-6
+
+Buffalo, V. (2015). Bioinformatics Data Skills: Reproducible and Robust Research with Open Source Tools. http://cds.cern.ch/record/2041868
+
 Desarrollado y mantenido por **Mar** ([@marsilvaa](https://github.com/marsilvaa)) – Líder del grupo de investigación *Amelia*
